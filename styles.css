@@ -1,0 +1,81 @@
+h1 {
+ color:red;   
+}
+
+#criminal { 
+ height:400px;
+ position:relative;
+ left: 700px;
+ top: 400px;
+}
+
+#intel {
+ height:200px; 
+ position:relative;
+ left: 850px;
+ top: 100px;
+ display: none;
+}
+
+#intel2 {
+ display: none;
+}
+
+#open{
+ display:none;   
+}
+
+#door{
+ display:none;   
+ height:400px;
+ position:relative;
+ left: 700px;
+ top: 400px;
+}
+
+#door2{
+ display:none;
+}
+
+#dog{
+ display:none;   
+ height:300px;
+ position:relative;
+ left: 700px;
+ top: 400px;
+}
+
+#dog2{
+ display:none;   
+}
+
+#John{
+ display:none;   
+ height:400px;
+ position:relative;
+ left: 200px;
+ top: 400px;
+}
+
+#sleepingdog{
+ display:none;   
+ height:400px;
+ position:relative;
+ left: 800px;
+ top: 400px;
+}
+
+#guntime{
+ display:none;
+}
+
+#victoryroyale{
+ display:none;
+ position:center;
+}
+
+#purpleman{
+ display:none;
+ position:center;
+ height:600px;
+}
